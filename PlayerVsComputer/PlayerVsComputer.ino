@@ -4,7 +4,7 @@
 #define rows_per_board 8
 #define columns_per_board 8
 #define pins_per_square 3
-
+//asdfasdf
 Adafruit_NeoPixel A = Adafruit_NeoPixel(rows_per_board * pins_per_square, 2, NEO_GRB + NEO_KHZ800);
 Adafruit_NeoPixel B = Adafruit_NeoPixel(rows_per_board * pins_per_square, 3, NEO_GRB + NEO_KHZ800);
 Adafruit_NeoPixel C = Adafruit_NeoPixel(rows_per_board * pins_per_square, 4, NEO_GRB + NEO_KHZ800);
